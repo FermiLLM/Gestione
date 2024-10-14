@@ -14,5 +14,8 @@ Il cuore del sistema di gestione di FermiAI consiste in un processo di ragioname
 
 2. **Elaborazione della Risposta**: Una volta completato il confronto, l'input dell'utente e il risultato del confronto vengono utilizzati per generare la risposta finale. Durante questa fase di elaborazione, è prevista un'animazione di caricamento per informare l'utente che il sistema sta lavorando per fornire una risposta. Al termine dell'elaborazione, l'animazione scompare e la risposta finale viene visualizzata nella chat.
 
+### Tecnologie Utilizzate
+In questa versione, FermiAI utilizza il modello **Ollama Llama3.2:1b**, che consente un'elaborazione avanzata del linguaggio naturale, migliorando la qualità delle risposte e l'interazione complessiva con l'utente.
+
 ## Futuri Sviluppi
 Il progetto è in continua evoluzione, con l'obiettivo di migliorare ulteriormente l'efficienza e la capacità di FermiAI di gestire e fornire informazioni in modo dinamico. L'integrazione statica del file informativo rappresenterà un passo significativo verso un sistema ancora più robusto e reattivo.
