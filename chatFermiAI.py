@@ -100,7 +100,7 @@ def chat_interattiva(percorso_file):
             break
 
 if __name__ == "__main__":
-    percorso_file = "/home/edollama/info.txt"
+    percorso_file = "/home/info.txt"
     loading_active = False  # Variabile per controllare il caricamento
     
     chat_interattiva(percorso_file)
